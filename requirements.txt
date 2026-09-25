@@ -1,0 +1,9 @@
+# Версии для новых примеров лекций 04–10; Python 3.11/3.12.
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+seaborn==0.13.2
+scipy==1.17.0
+statsmodels==0.14.6
+scikit-image==0.25.2
+pybaselines==1.2.1
