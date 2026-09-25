@@ -19,7 +19,7 @@
 | 3 | Планирование эксперимента и оптимизация | [Факторные планы и оптимизация](experimental_design/06-design_and_optimization.md), затем [случайные эффекты и блоки](experimental_design/07-random_effects_and_blocks.md) |
 | 4 | Спектры, экспериментальные кривые и изображения | [Кривые](experimental_analysis/08-spectra_and_curves.md), затем [изображения](experimental_analysis/09-image_analysis.md) |
 | 5 | Научное и стохастическое моделирование | [Механистические модели, параметры, Монте-Карло, диффузия и проверка моделей](modeling/10-scientific_and_stochastic_modeling.md) |
-| 6 | Классическое машинное обучение | [Постановка задачи и проверка](machine_learning/11-ml-problem_and_validation.md), затем [методы и следующий эксперимент](machine_learning/12-ml-methods_and_experiment.md). Нейронные сети и обучение с подкреплением рассматриваются обзорно |
+| 6 | Машинное обучение для исследовательских данных | [Постановка задачи и проверка](machine_learning/11-ml-problem_and_validation.md), затем [линейные и ансамблевые методы, нейронная сеть, выбор опыта и управление во времени](machine_learning/12-ml-methods_and_experiment.md) |
 | 7 | От лаборатории к производству | [Масштабирование, данные партий, мониторинг и цифровой двойник](production/README.md) |
 | 8 | Итоговый проект | Исследовательский проект по собственной теме или близкому учебному набору с независимой проверкой результата |
 
@@ -38,7 +38,7 @@
 | 9 | Количественный анализ изображений | [Калибровка, сегментация, признаки и устойчивость](experimental_analysis/09-image_analysis.md) |
 | 10 | Научное и стохастическое моделирование | [ОДУ, аппроксимация, идентифицируемость и случайные процессы](modeling/10-scientific_and_stochastic_modeling.md) |
 | 11 | Машинное обучение: задача, данные и проверка прогноза | [Контракт прогноза, вложенность, разбиение по кампаниям, baseline, метрики и утечки](machine_learning/11-ml-problem_and_validation.md) · [презентация, 40 слайдов](slides/11-ml-problem_and_validation.pptx) |
-| 12 | Машинное обучение: методы и следующий эксперимент | [Ridge, PLS, деревья, PCA, кластеры и активный выбор опыта](machine_learning/12-ml-methods_and_experiment.md) · [презентация, 40 слайдов](slides/12-ml-methods_and_experiment.pptx) |
+| 12 | Машинное обучение: методы и следующий эксперимент | [Ridge, PLS, лес, бустинг, нейросеть, реальные наборы pH и log D, активный выбор и RL](machine_learning/12-ml-methods_and_experiment.md) · [презентация, 40 слайдов](slides/12-ml-methods_and_experiment.pptx) |
 | 13 | Масштабирование и данные партий | [Конспект](production/13-scaling_and_process_data.md) · [презентация, 36 слайдов](slides/13_from_lab_to_production_scale_and_data.pptx) |
 | 14 | Мониторинг, цифровой двойник и следующий опыт | [Конспект](production/14-monitoring_and_digital_twin.md) · [презентация, 36 слайдов](slides/14_from_lab_to_production_monitoring_and_twin.pptx) |
 
