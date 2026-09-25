@@ -20,7 +20,7 @@
 | 10 | `Научное_и_стохастическое_моделирование.pptx` | 38 | Добавлен [конспект моделирования](modeling/10-scientific_and_stochastic_modeling.md) |
 | 11 | [Презентация «Постановка и проверка ML»](slides/11-ml-problem_and_validation.pptx) | 40 | [Конспект ML 1](machine_learning/11-ml-problem_and_validation.md): задача, независимые группы и проверка |
 | 12 | [Презентация «Методы и следующий эксперимент»](slides/12-ml-methods_and_experiment.pptx) | 40 | [Конспект ML 2](machine_learning/12-ml-methods_and_experiment.md): ансамбли, pH по RGB, молекулярные дескрипторы, сеть и последовательное решение |
-| 13 | [Масштабирование и данные партий](slides/13_from_lab_to_production_scale_and_data.pptx) | 36 | [Конспект](production/13-scaling_and_process_data.md) |
+| 13 | [Масштабирование и данные партий](slides/13_from_lab_to_production_scale_and_data.pptx) | 40 | [Конспект](production/13-scaling_and_process_data.md) |
 | 14 | [Мониторинг, цифровой двойник и следующий опыт](slides/14_from_lab_to_production_monitoring_and_twin.pptx) | 36 | [Конспект](production/14-monitoring_and_digital_twin.md) |
 
 Существующие два конспекта и домашние задания сохранены. Они не являются дословной расшифровкой первых трёх презентаций. Порядок задан в оглавлении без изменения старых адресов.
@@ -40,7 +40,7 @@
 | 10 | 2–8; 9–11; 12–23; 24–33; 34–38 | Постановка; ОДУ; оценка параметров; случайные процессы; исследование и проверка модели |
 | 11 | 2–11; 12–22; 23–29; 30–40 | Задача и единица наблюдения; тест и метрики; классификация и перенос; пример и мини-проект |
 | 12 | 2–7; 8–13; 14–22; 23–28; 29–36; 37–40 | Линейные методы; спектры и PLS; дерево, лес, бустинг с числовым примером; кластеры и pH по RGB; активный опыт, сеть и аудит ноутбука log D; RL и выводы |
-| 13 | 2–10; 11–22; 23–31; 32–36 | Масштабирование; идентификаторы и датчики; вариабельность и пилотный опыт; практика |
+| 13 | 2–12; 13–24; 25–35; 36–40 | Геометрия, тепло и смешение; иерархия и временные данные; контрасты и пилот; практика и выводы |
 | 14 | 2–16; 17–24; 25–30; 31–36 | Мониторинг и дрейф; модель состояния и цифровой двойник; последовательный опыт; практика |
 
 ## Редакционные уточнения
@@ -60,6 +60,9 @@
 - [NIST/SEMATECH e-Handbook: Process or Product Monitoring and Control](https://www.itl.nist.gov/div898/handbook/pmc/pmc.htm).
 - [NIST/SEMATECH e-Handbook: Iterative nature of experimentation](https://www.itl.nist.gov/div898/handbook/pri/section2/pri223.htm).
 - [NIST: Digital Twins for Advanced Manufacturing](https://www.nist.gov/programs-projects/digital-twins-advanced-manufacturing).
+- [NIST SP 1200-6: Measuring the Size of Nanoparticles in Aqueous Media Using Batch-Mode Dynamic Light Scattering](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1200-6.pdf) — метод измерения для примера лекции 13.
+- [NIST/SEMATECH e-Handbook: Selecting and Scaling Process Variables](https://www.itl.nist.gov/div898/handbook/pri/section3/pri32.htm) — выбор факторов и границ пилотного опыта.
+- [Scale-up of Continuous and Semibatch Precipitation Processes](https://pubs.acs.org/doi/10.1021/ie990431u) — ограничения переноса по одному глобальному критерию смешения.
 
 Пример процесса SiO₂ и численные значения в лекциях 13–14 искусственные.
 
