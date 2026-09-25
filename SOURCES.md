@@ -8,10 +8,10 @@
 
 | Порядок | Презентация | Слайдов | Конспект и действие |
 |---|---|---:|---|
-| 1 | `01_Лекция_python_1_переработанная.pptx` | 37 | Уже покрыта [базовым конспектом](python_basics/01-basics_and_types.md): основы языка и управление потоком |
-| 2 | `02_Лекция_python_2_переработанная.pptx` | 42 | Уже покрыта [базовым конспектом](python_basics/01-basics_and_types.md): структуры данных и включения |
-| 3 | `03_Лекция_python_3.pptx` | 45 | Уже покрыта [конспектом функций](python_basics/02-functions.md) |
-| 4 | [04-numpy_and_visualization.pptx](python_basics/04-numpy_and_visualization.pptx) (исходный файл `04_Лекция_python_4.pptx`) | 38 | Добавлен [NumPy и визуализация](python_basics/04-numpy_and_visualization.md) |
+| 1 | [01-python_basics.pptx](slides/01-python_basics.pptx) | 37 | Уже покрыта [базовым конспектом](python_basics/01-basics_and_types.md): основы языка и управление потоком |
+| 2 | [02-data_structures.pptx](slides/02-data_structures.pptx) | 42 | Уже покрыта [базовым конспектом](python_basics/01-basics_and_types.md): структуры данных и включения |
+| 3 | [03-functions.pptx](slides/03-functions.pptx) | 45 | Уже покрыта [конспектом функций](python_basics/02-functions.md) |
+| 4 | [04-numpy_and_visualization.pptx](slides/04-numpy_and_visualization.pptx) | 38 | Добавлен [NumPy и визуализация](python_basics/04-numpy_and_visualization.md) |
 | 5 | `Экспериментальные_данные_и_воспроизводимость_лекция(1).pptx` | 44 | Добавлен [конспект воспроизводимости](experimental_data/05-reproducibility.md) |
 | 6 | `Планирование_эксперимента_и_оптимизация.pptx` | 30 | Добавлен [конспект планирования](experimental_design/06-design_and_optimization.md) |
 | 7 | `Случайные_эффекты_и_блочные_планы_переработанная.pptx` | 43 | Добавлен [конспект случайных эффектов](experimental_design/07-random_effects_and_blocks.md) |
