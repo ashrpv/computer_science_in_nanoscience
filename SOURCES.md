@@ -1,33 +1,29 @@
-# Источники и порядок конспектов
+# Материалы и источники
 
 Авторские презентации служат основой конспектов первых десяти лекций. Порядок модулей: Python для научных данных → экспериментальные данные и воспроизводимость → планирование эксперимента и оптимизация → спектры, кривые и изображения → научное и стохастическое моделирование → машинное обучение → от лаборатории к производству → итоговый проект.
 
-Это порядок изучения материалов; он не задаёт число аудиторных занятий или часов. В модуле планирования сначала рассматриваются планы и оптимизация, затем случайные эффекты и блочные планы. Для производственного модуля созданы лекции 13–14; итоговый проект пока запланирован.
+Это порядок изучения материалов; он не задаёт число аудиторных занятий или часов. В модуле планирования сначала рассматриваются планы и оптимизация, затем случайные эффекты и блочные планы. Производственный модуль включает лекции 13–14; итоговый проект объединяет методы курса в исследовательской задаче.
 
 ## Сопоставление файлов
 
-| Порядок | Презентация | Слайдов | Конспект и действие |
+| Порядок | Презентация | Слайдов | Конспект |
 |---|---|---:|---|
-| 1 | [01-python_basics.pptx](slides/01-python_basics.pptx) | 37 | Уже покрыта [базовым конспектом](python_basics/01-basics_and_types.md): основы языка и управление потоком |
-| 2 | [02-data_structures.pptx](slides/02-data_structures.pptx) | 42 | Уже покрыта [базовым конспектом](python_basics/01-basics_and_types.md): структуры данных и включения |
-| 3 | [03-functions.pptx](slides/03-functions.pptx) | 45 | Уже покрыта [конспектом функций](python_basics/02-functions.md) |
-| 4 | [04-numpy_and_visualization.pptx](slides/04-numpy_and_visualization.pptx) | 38 | Добавлен [NumPy и визуализация](python_basics/04-numpy_and_visualization.md) |
-| 5 | `Экспериментальные_данные_и_воспроизводимость_лекция(1).pptx` | 44 | Добавлен [конспект воспроизводимости](experimental_data/05-reproducibility.md) |
-| 6 | `Планирование_эксперимента_и_оптимизация.pptx` | 30 | Добавлен [конспект планирования](experimental_design/06-design_and_optimization.md) |
-| 7 | `Случайные_эффекты_и_блочные_планы_переработанная.pptx` | 43 | Добавлен [конспект случайных эффектов](experimental_design/07-random_effects_and_blocks.md) |
-| 8 | `Спектры_и_экспериментальные_кривые.pptx` | 28 | Добавлен [конспект спектров и кривых](experimental_analysis/08-spectra_and_curves.md) |
-| 9 | `Количественный_анализ_изображений.pptx` | 28 | Добавлен [конспект анализа изображений](experimental_analysis/09-image_analysis.md) |
-| 10 | `Научное_и_стохастическое_моделирование.pptx` | 38 | Добавлен [конспект моделирования](modeling/10-scientific_and_stochastic_modeling.md) |
-| 11 | [Презентация «Постановка и проверка ML»](slides/11-ml-problem_and_validation.pptx) | 40 | [Конспект ML 1](machine_learning/11-ml-problem_and_validation.md): задача, независимые группы и проверка |
-| 12 | [Презентация «Методы и следующий эксперимент»](slides/12-ml-methods_and_experiment.pptx) | 40 | [Конспект ML 2](machine_learning/12-ml-methods_and_experiment.md): ансамбли, pH по RGB, молекулярные дескрипторы, сеть и последовательное решение |
-| 13 | [Масштабирование и данные партий](slides/13_from_lab_to_production_scale_and_data.pptx) | 40 | [Конспект](production/13-scaling_and_process_data.md) |
-| 14 | [Мониторинг, цифровой двойник и следующий опыт](slides/14_from_lab_to_production_monitoring_and_twin.pptx) | 40 | [Конспект](production/14-monitoring_and_digital_twin.md) |
+| 1 | [01-python_basics.pptx](slides/01-python_basics.pptx) | 37 | [Конспект](python_basics/01-basics_and_types.md): основы языка и управление потоком |
+| 2 | [02-data_structures.pptx](slides/02-data_structures.pptx) | 42 | [Конспект](python_basics/01-basics_and_types.md): структуры данных и включения |
+| 3 | [03-functions.pptx](slides/03-functions.pptx) | 45 | [Конспект](python_basics/02-functions.md) |
+| 4 | [04-numpy_and_visualization.pptx](slides/04-numpy_and_visualization.pptx) | 38 | [Конспект](python_basics/04-numpy_and_visualization.md) |
+| 5 | [05-reproducibility.pptx](slides/05-reproducibility.pptx) | 44 | [Конспект](experimental_data/05-reproducibility.md) |
+| 6 | [06-design_and_optimization.pptx](slides/06-design_and_optimization.pptx) | 30 | [Конспект](experimental_design/06-design_and_optimization.md) |
+| 7 | [07-random_effects_and_blocks.pptx](slides/07-random_effects_and_blocks.pptx) | 43 | [Конспект](experimental_design/07-random_effects_and_blocks.md) |
+| 8 | [08-spectra_and_curves.pptx](slides/08-spectra_and_curves.pptx) | 28 | [Конспект](experimental_analysis/08-spectra_and_curves.md) |
+| 9 | [09-image_analysis.pptx](slides/09-image_analysis.pptx) | 28 | [Конспект](experimental_analysis/09-image_analysis.md) |
+| 10 | [10-scientific_and_stochastic_modeling.pptx](slides/10-scientific_and_stochastic_modeling.pptx) | 38 | [Конспект](modeling/10-scientific_and_stochastic_modeling.md) |
+| 11 | [11-ml_problem_and_validation.pptx](slides/11-ml_problem_and_validation.pptx) | 40 | [Конспект](machine_learning/11-ml-problem_and_validation.md) |
+| 12 | [12-ml_methods_and_experiment.pptx](slides/12-ml_methods_and_experiment.pptx) | 40 | [Конспект](machine_learning/12-ml-methods_and_experiment.md) |
+| 13 | [13-scaling_and_process_data.pptx](slides/13-scaling_and_process_data.pptx) | 40 | [Конспект](production/13-scaling_and_process_data.md) |
+| 14 | [14-monitoring_and_digital_twin.pptx](slides/14-monitoring_and_digital_twin.pptx) | 40 | [Конспект](production/14-monitoring_and_digital_twin.md) |
 
-Существующие два конспекта и домашние задания сохранены. Они не являются дословной расшифровкой первых трёх презентаций. Порядок задан в оглавлении без изменения старых адресов.
-
-В опубликованной презентации четвёртой лекции на титуле исправлен номер «Лекция 5» на «Лекция 4».
-
-## Покрытие новых конспектов
+## Темы конспектов и слайдов
 
 | Лекция | Слайды источника | Разделы конспекта |
 |---|---|---|
@@ -43,19 +39,9 @@
 | 13 | 2–12; 13–24; 25–35; 36–40 | Геометрия, тепло и смешение; иерархия и временные данные; контрасты и пилот; практика и выводы |
 | 14 | 2–21; 22–31; 32–37; 38–40 | Мониторинг и расследование сигнала; модель состояния и цифровой двойник; следующий допустимый опыт; практика |
 
-## Редакционные уточнения
-
-- Фрагменты, которым в слайдах нужны внешние `df`, `y_obs`, `sigma_y` или функции обработки, дополнены искусственными данными и определениями.
-- Различены стандартное отклонение измерения, доверительный интервал и интервал прогноза; отмечено агрегирование повторов в Seaborn.
-- Уточнены независимая единица, вложенность полей зрения и образцов, ограничения расчёта мощности для сложных дизайнов.
-- Для планов указаны смешение эффектов, недостаточность центральных точек для оценки всех квадратов и необходимость независимого подтверждения оптимума.
-- Ширина `peak_widths` названа шириной на половине prominence; перевод дробных индексов в физическую координату выполняется явно. Уточнены условия суммирования компонентов неопределённости.
-- В анализе изображений различены маска фазы и принятые объекты, описано смещение от исключения объектов у границы. Размер пикселя применяется один раз через `spacing`.
-- В моделировании различены ошибка наблюдения и прогноз, точки выдачи решения и шаг решателя, локальная ковариация и профиль параметра, заданная неопределённость Монте-Карло и экспериментальный доверительный интервал.
-
 ## Документация инструментов
 
-Для новых лекций 13–14 использованы первичные материалы:
+Для лекций 13–14 использованы первичные материалы:
 
 - [NIST/SEMATECH e-Handbook: Process or Product Monitoring and Control](https://www.itl.nist.gov/div898/handbook/pmc/pmc.htm).
 - [NIST/SEMATECH e-Handbook: Iterative nature of experimentation](https://www.itl.nist.gov/div898/handbook/pri/section2/pri223.htm).
