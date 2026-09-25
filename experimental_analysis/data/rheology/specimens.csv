@@ -1,0 +1,7 @@
+run_id,specimen_id,batch_id,formulation_id,level_pct,step_s,session_id
+R01,P01,B01,F00,0,3,A
+R02,P02,B01,F025,0.25,3,B
+R03,P03,B01,F050,0.5,3,B
+R04,P04,B01,F075,0.75,3,B
+R05,P05,B01,F075,0.75,6,B
+R06,P06,B01,F025,0.25,6,B
