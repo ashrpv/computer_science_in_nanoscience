@@ -1,0 +1,2 @@
+# Preserve the original CRLF bytes; avoid a 15k-line raw-data PR diff.
+raw/*.xy -text -diff

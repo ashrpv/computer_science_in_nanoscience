@@ -1,0 +1,9 @@
+sample_id,source_file,material,matrix_diameter_nm,annealing_C,annealing_h,independent_sample,nominal_start_deg,nominal_end_deg,nominal_step_deg,dwell_s,knife_label,sha256_raw
+3911,raw/IGIC_nps_3911.xy,iron_oxide_in_silica,120,1000,4,yes,5,80,0.04,0.2,present,2e3b84c926e21f9910cf8053fa9d93b3fd02757cf4da333cea81b85fa02d93f2
+3912,raw/IGIC_nps_3912.xy,silica_only,120,1000,4,yes,5,80,0.04,0.2,present,7562cad1fba753a75133715219a416edf1a0231468490d39527fb7aea7579bd6
+3913,raw/IGIC_nps_3913.xy,iron_oxide_in_silica,120,1000,4,yes,5,80,0.04,0.2,present,fddb3d8ed822417fd24967df30546beddf2ef3ac4538aec54faff422adfd66cd
+3914,raw/IGIC_nps_3914.xy,iron_oxide_in_silica,93,1000,4,yes,5,80,0.04,0.2,present,8fd931fb66554d8d017dbfb7ac9dead5925e0564df0d97a02a61b3bd35d5d488
+3915,raw/IGIC_nps_3915.xy,iron_oxide_in_silica,138,1000,4,yes,5,80,0.04,0.2,present,85ff4829835f875aac5e6a051bc57bf4f4c7555a83d9cfa2f5f97fc2f9ded0b4
+3916,raw/IGIC_nps_3916.xy,iron_oxide_in_silica,93,1100,4,yes,5,80,0.04,0.2,present,e6313cdae3e07f438fc883877e0b3086cf6f763ca4933804031ac8290184222f
+3917,raw/IGIC_nps_3917.xy,iron_oxide_in_silica,138,1100,4,yes,5,80,0.04,0.2,present,c21eba2601d6f2def644801f1997f9f3e1d729d46be0befae4948c48b1100391
+3918,raw/IGIC_nps_3918.xy,silica_only,138,1100,4,yes,5,80,0.04,0.2,present,35adf17f0c41aca6eb1ac16ca52e68ed90de2a99759c578957407c94a7e736ad
