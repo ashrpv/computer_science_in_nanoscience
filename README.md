@@ -27,10 +27,10 @@
 
 | Порядок лекций | Тема | Конспект |
 |---|---|---|
-| 1 | Основы языка: значения, строки, условия, циклы | [Базовый синтаксис и типы](python_basics/01-basics_and_types.md), разделы 1–4, 9–12 |
-| 2 | Структуры данных и включения | [Тот же конспект](python_basics/01-basics_and_types.md), разделы 5–8, 13–16 |
-| 3 | Функции и функциональный стиль | [Функции, аргументы, итераторы, генераторы, декораторы](python_basics/02-functions.md) |
-| 4 | NumPy и визуализация данных | [NumPy, Matplotlib и Seaborn](python_basics/04-numpy_and_visualization.md) |
+| 1 | Основы языка: значения, строки, условия, циклы | [Базовый синтаксис и типы](python_basics/01-basics_and_types.md), разделы 1–4, 9–12 · [презентация, 37 слайдов](slides/01-python_basics.pptx) |
+| 2 | Структуры данных и включения | [Тот же конспект](python_basics/01-basics_and_types.md), разделы 5–8, 13–16 · [презентация, 42 слайда](slides/02-data_structures.pptx) |
+| 3 | Функции и функциональный стиль | [Функции, аргументы, итераторы, генераторы, декораторы](python_basics/02-functions.md) · [презентация, 45 слайдов](slides/03-functions.pptx) |
+| 4 | NumPy и визуализация данных | [NumPy, Matplotlib и Seaborn](python_basics/04-numpy_and_visualization.md) · [презентация, 38 слайдов](slides/04-numpy_and_visualization.pptx) |
 | 5 | Экспериментальные данные и воспроизводимость | [Организация данных и научного проекта](experimental_data/05-reproducibility.md) |
 | 6 | Планирование эксперимента и оптимизация | [Факторные планы, поверхности отклика, смеси и ограничения](experimental_design/06-design_and_optimization.md) |
 | 7 | Случайные эффекты и блочные планы | [Мощность, MixedLM, вложенность и блокирование](experimental_design/07-random_effects_and_blocks.md) |
@@ -42,7 +42,7 @@
 | 13 | Масштабирование и данные партий | [Конспект](production/13-scaling_and_process_data.md) · [презентация, 40 слайдов](slides/13_from_lab_to_production_scale_and_data.pptx) |
 | 14 | Мониторинг, цифровой двойник и следующий опыт | [Конспект](production/14-monitoring_and_digital_twin.md) · [презентация, 40 слайдов](slides/14_from_lab_to_production_monitoring_and_twin.pptx) · [учебные данные](production/data/14-pilot_batches.csv) · [код примера](production/examples/lecture14.py) |
 
-Темы лекций 1–2 собраны в одном [конспекте основ Python](python_basics/01-basics_and_types.md). Между функциями и NumPy изучается [дополнение о модулях, PyPI и виртуальных окружениях](python_basics/modules_pypi_venv.md). Презентация к лекции 4 находится [рядом с её конспектом](python_basics/04-numpy_and_visualization.pptx). В таблице указан учебный порядок, независимо от номера домашнего задания.
+Темы лекций 1–2 собраны в одном [конспекте основ Python](python_basics/01-basics_and_types.md). Между функциями и NumPy изучается [дополнение о модулях, PyPI и виртуальных окружениях](python_basics/modules_pypi_venv.md). Презентации лекций 1–4 собраны в [каталоге slides](slides). В таблице указан учебный порядок, независимо от номера домашнего задания.
 
 ## Практика
 
