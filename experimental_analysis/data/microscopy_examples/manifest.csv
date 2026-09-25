@@ -1,0 +1,6 @@
+image_id,source_file,case,modality_evidence,scale_bar_value,scale_bar_unit,width_px,height_px,icc_profile,sha256_raw
+P01,raw/1a.JPG,pigment_colour,light_microscopy_probable,,,2048,1536,sRGB,235d7fb28e6bebeff0d5c6c150d3c2d41427f024dd6b7621ae39238952654f69
+P02,raw/1b.jpg,pigment_colour,light_microscopy_probable,100,um,2048,1536,sRGB,9840fda031167ce75e391bf43d93bcd85e09522acb1bcec697628d4b0c988467
+N01,raw/2016-02-26-n1-1-4.jpg,dense_faceted_particles,TEM_probable,100,nm,2048,1705,sRGB,2a9ad695a4a9d0aa524909650c5303b780d13841d60622c7a017575d4ea0514e
+N02,raw/2019-02-18-2-6035.jpg,round_particles_contrast,SEM_overlay_SEI,0.5,um,2048,1536,sRGB,d8a3772745d8b7a4edc1a7096dde49dd0c833626de7884cd0c6c7ca453139736
+N03,raw/2019-12-13-9-2.jpg,round_particles_segmentation,TEM_probable,500,nm,2048,1705,sRGB,f425a25d65fcd36cd1ae12adef48761675a26065b0f1c97af029576d65d4c2c9
