@@ -1,0 +1,23 @@
+sample_id,status,n_images,n_labeled,n_unlabeled,note
+V01,included,3,422,0,
+V02,included,6,239,0,
+V03,included,2,230,0,
+V04,included,3,241,0,
+V05,included,3,289,0,
+V06,included,3,238,0,
+V07,included,3,75,0,
+V08,included,5,228,0,
+V09,included,4,371,0,
+V10,included,3,183,0,
+V11,included,4,334,0,
+V12,included,3,489,0,
+V13,included,3,171,0,8 текстовых чисел с десятичной запятой приведены к числовому типу
+V14,excluded,6,422,213,"Тот же набор чисел, что в V01; разная разбивка по снимкам; ещё 213 значений в столбцах без заголовков"
+V15,included,5,252,0,
+V16,excluded,3,238,0,"Тот же набор чисел, что в V06; разная разбивка по снимкам"
+V17,included,7,676,0,
+V18,included,5,283,0,
+V19,included,8,570,0,
+V20,included,6,371,0,
+V21,included,8,419,0,
+V22,included,6,544,0,
