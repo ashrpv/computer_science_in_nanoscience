@@ -40,7 +40,7 @@
 | 11 | Машинное обучение: задача, данные и проверка прогноза | [Контракт прогноза, вложенность, разбиение по кампаниям, baseline, метрики и утечки](machine_learning/11-ml-problem_and_validation.md) · [презентация, 40 слайдов](slides/11-ml-problem_and_validation.pptx) |
 | 12 | Машинное обучение: методы и следующий эксперимент | [Ridge, PLS, лес, бустинг, нейросеть, реальные наборы pH и log D, активный выбор и RL](machine_learning/12-ml-methods_and_experiment.md) · [презентация, 40 слайдов](slides/12-ml-methods_and_experiment.pptx) |
 | 13 | Масштабирование и данные партий | [Конспект](production/13-scaling_and_process_data.md) · [презентация, 40 слайдов](slides/13_from_lab_to_production_scale_and_data.pptx) |
-| 14 | Мониторинг, цифровой двойник и следующий опыт | [Конспект](production/14-monitoring_and_digital_twin.md) · [презентация, 36 слайдов](slides/14_from_lab_to_production_monitoring_and_twin.pptx) |
+| 14 | Мониторинг, цифровой двойник и следующий опыт | [Конспект](production/14-monitoring_and_digital_twin.md) · [презентация, 40 слайдов](slides/14_from_lab_to_production_monitoring_and_twin.pptx) · [учебные данные](production/data/14-pilot_batches.csv) · [код примера](production/examples/lecture14.py) |
 
 Темы лекций 1–2 собраны в одном [конспекте основ Python](python_basics/01-basics_and_types.md). Между функциями и NumPy изучается [дополнение о модулях, PyPI и виртуальных окружениях](python_basics/modules_pypi_venv.md). Презентация к лекции 4 находится [рядом с её конспектом](python_basics/04-numpy_and_visualization.pptx). В таблице указан учебный порядок, независимо от номера домашнего задания.
 
