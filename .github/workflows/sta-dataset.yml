@@ -1,0 +1,25 @@
+name: STA dataset
+on:
+  push:
+    paths:
+      - 'datasets/sta_iron_oxides/**'
+      - '.github/workflows/sta-dataset.yml'
+  pull_request:
+    paths:
+      - 'datasets/sta_iron_oxides/**'
+      - '.github/workflows/sta-dataset.yml'
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: python -m unittest discover -s datasets/sta_iron_oxides/tests -v
+      - run: |
+          python datasets/sta_iron_oxides/prepare.py
+          python -m unittest discover -s datasets/sta_iron_oxides/tests -v
