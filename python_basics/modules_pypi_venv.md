@@ -20,7 +20,7 @@ def concentration(signal_mv, intercept_mv, slope_mv_per_mg_l):
 ```python
 from calibration import concentration
 
-print(concentration(signal_mv=9.5, intercept_mv=1.5, slope_mv_per_mg_l=0.8))
+print(f"{concentration(signal_mv=9.5, intercept_mv=1.5, slope_mv_per_mg_l=0.8):.1f} мг/л")
 # 10.0 мг/л
 ```
 
@@ -31,8 +31,9 @@ print(concentration(signal_mv=9.5, intercept_mv=1.5, slope_mv_per_mg_l=0.8))
 ```python
 # В analyze.py после строки from calibration import concentration:
 def main():
-    print(concentration(signal_mv=9.5, intercept_mv=1.5,
-                        slope_mv_per_mg_l=0.8))
+    value_mg_l = concentration(signal_mv=9.5, intercept_mv=1.5,
+                               slope_mv_per_mg_l=0.8)
+    print(f"{value_mg_l:.1f} мг/л")
 
 if __name__ == "__main__":
     main()
@@ -92,9 +93,9 @@ python -c "import numpy; print(numpy.__version__, numpy.__file__)"
 
 Если активировать окружение неудобно, можно указать его интерпретатор явно: `.venv/bin/python -m pip ...` на Linux/macOS или `.venv\Scripts\python.exe -m pip ...` в Windows. В notebook проверьте `sys.executable`: установка пакета в терминале не меняет автоматически выбранное ядро notebook.
 
-## Небольшая проверка
+## Самостоятельная проверка импорта и окружения
 
-Создайте `calibration.py` и `analyze.py` из примера. Запустите `analyze.py`, затем создайте окружение, установите зависимости курса и выясните, из какого файла импортируется NumPy:
+Создайте `calibration.py` и `analyze.py` из примера в отдельной папке практики; команды установки зависимостей запускайте из корня репозитория, где лежит `requirements.txt`. Запустите `analyze.py`, затем создайте окружение и выясните, из какого файла импортируется NumPy:
 
 ```python
 import numpy as np
@@ -103,6 +104,6 @@ print(np.__file__)
 
 Путь должен указывать на установленную библиотеку в выбранном окружении, а не на ваш случайно названный `numpy.py`.
 
-**Задача для проверки:** в отдельной папке измените `analyze.py` так, чтобы он печатал результат только при непосредственном запуске. Покажите две команды: прямой запуск и `python -c "import analyze"`. Объясните, почему второй вызов не должен писать результат расчёта. Затем найдите полный путь интерпретатора и версию NumPy в том же окружении, где выполняются примеры [лекции 4](04-numpy_and_visualization.md).
+**Задача для проверки:** покажите команды `python analyze.py` и `python -c "import analyze"` из папки практики: вторая не должна печатать результат расчёта. Затем в том же окружении, где выполняются примеры [лекции 4](04-numpy_and_visualization.md), запишите вывод команды `python -c "import sys, numpy; print(sys.executable, sys.version.split()[0], numpy.__version__, numpy.__file__)"`. Сопоставьте его с `python -m pip show numpy`. Если путь к интерпретатору не указывает на выбранное окружение либо импортируется локальный `numpy.py`, исправьте путь или название файла. Сдайте два `.py`-файла и короткую запись команд и их вывода; абсолютные пути на другой машине будут другими.
 
 **Справка:** [модули Python](https://docs.python.org/3/tutorial/modules.html), [venv](https://docs.python.org/3/library/venv.html), [установка с pip и venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
