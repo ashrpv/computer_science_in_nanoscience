@@ -38,7 +38,7 @@ print(round(power, 3), round(n_total, 2), n_per_group, n_with_losses)
 
 $$y_{ij}=\mu+a_i+\varepsilon_{ij},\qquad a_i\sim N(0,\sigma_a^2),\quad \varepsilon_{ij}\sim N(0,\sigma^2).$$
 
-Случайные эффекты независимы между группами и от ошибок. Тогда $\operatorname{Var}(y)=\sigma_a^2+\sigma^2$, а внутриклассовая корреляция:
+Случайные эффекты независимы между группами и от ошибок. Тогда $\mathrm{Var}(y)=\sigma_a^2+\sigma^2$, а внутриклассовая корреляция:
 
 $$ICC=\frac{\sigma_a^2}{\sigma_a^2+\sigma^2}.$$
 
