@@ -1,0 +1,13 @@
+sample_id,batch_id,oil,squalene_pct,measurement_id,diameter_nm,day,comment
+P01,B1,peach,0,M01,142,0,ok
+P01,B1,peach,0,M02,145,0,ok
+P02,B2,peach,2,M03,118,0,ok
+P02,B2,peach,2,M04,121,0,ok
+A01,B3,apricot,0,M05,151,0,ok
+A01,B3,apricot,0,M06,,0,device_error
+A02,B4,apricot,2,M07,125,0,ok
+A02,B4,apricot,2,M08,123,0,ok
+P01,B1,peach,0,M09,178,7,ok
+P02,B2,peach,2,M10,131,7,ok
+A01,B3,apricot,0,M11,193,7,ok
+A02,B4,apricot,2,M12,141,7,ok
