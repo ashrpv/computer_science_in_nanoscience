@@ -39,6 +39,18 @@
 | 13 | 2–12; 13–24; 25–35; 36–40 | Геометрия, тепло и смешение; иерархия и временные данные; контрасты и пилот; практика и выводы |
 | 14 | 2–21; 22–31; 32–37; 38–40 | Мониторинг и расследование сигнала; модель состояния и цифровой двойник; следующий допустимый опыт; практика |
 
+## Научные источники для практикума по наночастицам (лекция 10)
+
+- [Ermak & McCammon (1978), Brownian dynamics with hydrodynamic interactions](https://doi.org/10.1063/1.436761) — исходная работа по броуновской динамике; учебный notebook использует более простой предел независимых частиц без гидродинамических взаимодействий.
+- [Zhao et al., Brownian Dynamics Simulations of Magnetic Nanoparticles Captured in Strong Magnetic Field Gradients](https://doi.org/10.1021/acs.jpcc.6b09409) — магнитный захват в неоднородном поле. Значения поля в учебном сценарии не являются измерениями из статьи.
+- [ζ-Potentials of Silica in Water–Alcohol Mixtures](https://doi.org/10.1021/la00040a008) — зависимость электрокинетических свойств от состава растворителя; ζ-потенциал сам по себе не задаёт готовую количественную модель парного взаимодействия.
+- [Wang & Brady, Microstructures and mechanics in the colloidal film drying process](https://authors.library.caltech.edu/records/emx3b-61457) — броуновская динамика частиц и движущаяся граница высыхающей плёнки.
+- [Lesaine et al., Role of particle aggregation in the structure of dried colloidal silica layers](https://doi.org/10.1039/D0SM00723D) — опыты с высыханием SiO₂: важны полидисперсность и агрегация, порядок на поверхности не характеризует автоматически весь объём.
+- [Deegan et al., Capillary flow as the cause of ring stains from dried liquid drops](https://doi.org/10.1038/39827) — радиальный перенос к закреплённой контактной линии капли.
+- [Shi, Yang & Bain, Drying of Ethanol/Water Droplets Containing Silica Nanoparticles](https://doi.org/10.1021/acsami.8b21731) — водно-спиртовые капли с *пирогенным* SiO₂. Их результаты нельзя напрямую использовать как параметры монодисперсных сфер для модели опала.
+
+Новые [конспект](modeling/10-nanoparticle-modeling.md) и [задание](modeling/10-nanoparticle-homework.md) отделяют литературные механизмы от сценарных параметров исполняемых примеров.
+
 ## Документация инструментов
 
 Для лекций 13–14 использованы первичные материалы:
