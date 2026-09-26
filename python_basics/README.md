@@ -13,6 +13,8 @@
 | [`modules_pypi_venv.md`](modules_pypi_venv.md) | Короткое дополнение: модули, PyPI, pip и виртуальные окружения |
 | [`04-numpy_and_visualization.md`](04-numpy_and_visualization.md) | Конспект: NumPy, Matplotlib и Seaborn (лекция 4) |
 | [`04-homework.md`](04-homework.md) | Домашнее задание №3: массивы и научная графика |
+| [Справочник по базовой статистике](../reference/basic_statistics.md) | Единица анализа, сводки, разброс и интервалы |
+| [Статистика в Python](../reference/statistics_with_python.md) | Сквозной пример с NumPy, pandas и SciPy |
 | [Презентация лекции 1](../slides/01-python_basics.pptx) | Основы Python, 37 слайдов |
 | [Презентация лекции 2](../slides/02-data_structures.pptx) | Структуры данных, 42 слайда |
 | [Презентация лекции 3](../slides/03-functions.pptx) | Функции, 45 слайдов |
