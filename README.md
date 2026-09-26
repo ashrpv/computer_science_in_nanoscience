@@ -18,7 +18,7 @@
 | 2 | Экспериментальные данные и воспроизводимость | [Единица наблюдения, tidy-таблицы, метаданные, notebook и Git](experimental_data/05-reproducibility.md) |
 | 3 | Планирование эксперимента и оптимизация | [Факторные планы и оптимизация](experimental_design/06-design_and_optimization.md), затем [случайные эффекты и блоки](experimental_design/07-random_effects_and_blocks.md) |
 | 4 | Спектры, экспериментальные кривые и изображения | [Кривые](experimental_analysis/08-spectra_and_curves.md), затем [изображения](experimental_analysis/09-image_analysis.md) |
-| 5 | Научное и стохастическое моделирование | [Механистические модели, параметры, Монте-Карло, диффузия и проверка моделей](modeling/10-scientific_and_stochastic_modeling.md) |
+| 5 | Научное и стохастическое моделирование | [Механистические модели, параметры, Монте-Карло, диффузия и проверка моделей](modeling/10-scientific_and_stochastic_modeling.md); [практикум о переносе наночастиц и высыхании SiO₂](modeling/10-nanoparticle-modeling.md) |
 | 6 | Машинное обучение для исследовательских данных | [Постановка задачи и проверка](machine_learning/11-ml-problem_and_validation.md), затем [линейные и ансамблевые методы, нейронная сеть, выбор опыта и управление во времени](machine_learning/12-ml-methods_and_experiment.md) |
 | 7 | От лаборатории к производству | [Масштабирование, данные партий, мониторинг и цифровой двойник](production/README.md) |
 | 8 | Итоговый проект | Исследовательский проект по собственной теме или близкому учебному набору с независимой проверкой результата |
@@ -57,6 +57,8 @@
 | Машинное обучение | [Проверка прогноза](reference/ml_validation_practice.md) | Групповой split, утечки, baseline, Pipeline и отложенный тест |
 | Данные партий и мониторинг | [Временные ряды и модель процесса](reference/production_data_practice.md) | Ключи, время доступности, QC, контроль процесса и цифровой двойник |
 
+К лекции 10 подготовлены два исполняемых примера: [перенос Au, Fe₃O₄ и SiO₂](modeling/10-nanoparticle-transport.ipynb) и [упорядочение SiO₂ при высыхании](modeling/10-silica-drying.ipynb). Параметры примеров заданы как учебные сценарии, а не как измерения конкретных партий.
+
 ## Практика
 
 Задания идут в порядке лекций. В каждом файле указаны обязательный минимум, состав сдачи и варианты углубления. Реальный набор может заменить указанную часть учебного задания или продолжить сквозной проект; выполнять все перечисленные ниже наборы одновременно не требуется. Показатели из разных уровней наблюдения не считайте независимыми повторами только потому, что они занимают отдельные строки.
@@ -71,7 +73,7 @@
 | 7 | [Блоки и случайные эффекты](experimental_design/07-homework.md) | План повторов для реологии, ПЭМ, STA или [дифрактограмм](datasets/xrd_fe_silica/README.md) |
 | 8 | [Спектры и экспериментальные кривые](experimental_analysis/08-homework.md) | [Кривые вязкости](experimental_analysis/data/rheology/README.md), отдельный практикум [DSC/TG](experimental_analysis/08-sta-homework.md) либо [XRD](experimental_analysis/08-xrd-homework.md) |
 | 9 | [Количественный анализ изображений](experimental_analysis/09-homework.md) | [Пять микрофотографий](experimental_analysis/09-microscopy-homework.md); отдельная ветка по [готовым ПЭМ-измерениям](experimental_analysis/09-tem-homework.md) |
-| 10 | [Научное и стохастическое моделирование](modeling/10-homework.md) | [Кинетическая модель STA](modeling/10-sta-modeling.md) или модель кривой вязкости |
+| 10 | [Научное и стохастическое моделирование](modeling/10-homework.md) | [Перенос наночастиц и высыхание SiO₂](modeling/10-nanoparticle-homework.md), [кинетическая модель STA](modeling/10-sta-modeling.md) или модель кривой вязкости |
 | 11 | [Постановка задачи машинного обучения и проверка](machine_learning/11-homework.md) | Паспорт прогноза на [исторических сериях](projects/regression_cases/assignment.md) |
 | 12 | [Выбор метода и следующего эксперимента](machine_learning/12-homework.md) | Реальный исследовательский трек либо [практикум по регрессии](projects/regression_cases/assignment.md) |
 | 13 | [Масштабирование и данные партий](production/13-homework.md) | Проект переноса термообработки |
