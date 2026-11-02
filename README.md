@@ -32,8 +32,8 @@
 | 3 | Функции и функциональный стиль | [Функции, аргументы, итераторы, генераторы, декораторы](python_basics/02-functions.md) | [PPTX, 45 слайдов](slides/03-functions.pptx) |
 | 4 | NumPy и визуализация данных | [NumPy, Matplotlib и Seaborn](python_basics/04-numpy_and_visualization.md) | [PPTX, 38 слайдов](slides/04-numpy_and_visualization.pptx) |
 | 5 | Экспериментальные данные и воспроизводимость | [Организация данных и научного проекта](experimental_data/05-reproducibility.md) | [PPTX, 44 слайда](slides/05-reproducibility.pptx) |
-| 6 | Планирование эксперимента и оптимизация | [Факторные планы, поверхности отклика, смеси и ограничения](experimental_design/06-design_and_optimization.md) | [PPTX, 30 слайдов](slides/06-design_and_optimization.pptx) |
-| 7 | Случайные эффекты и блочные планы | [Мощность, MixedLM, вложенность и блокирование](experimental_design/07-random_effects_and_blocks.md) | [PPTX, 43 слайда](slides/07-random_effects_and_blocks.pptx) |
+| 6 | Планирование эксперимента и оптимизация | [Факторные планы, поверхности отклика, смеси и ограничения](experimental_design/06-design_and_optimization.md) | [PPTX](slides/06-design_and_optimization.pptx) · [Эталонный PDF](slides/06-design_and_optimization.pdf) (30 слайдов) |
+| 7 | Случайные эффекты и блочные планы | [Мощность, MixedLM, вложенность и блокирование](experimental_design/07-random_effects_and_blocks.md) | [PPTX](slides/07-random_effects_and_blocks.pptx) · [Эталонный PDF](slides/07-random_effects_and_blocks.pdf) (43 слайда) |
 | 8 | Спектры и экспериментальные кривые | [Фон, сглаживание, пики, кривые и QC](experimental_analysis/08-spectra_and_curves.md) | [PPTX, 28 слайдов](slides/08-spectra_and_curves.pptx) |
 | 9 | Количественный анализ изображений | [Калибровка, сегментация, признаки и устойчивость](experimental_analysis/09-image_analysis.md) | [PPTX, 28 слайдов](slides/09-image_analysis.pptx) |
 | 10 | Научное и стохастическое моделирование | [ОДУ, аппроксимация, идентифицируемость и случайные процессы](modeling/10-scientific_and_stochastic_modeling.md) | [PPTX, 38 слайдов](slides/10-scientific_and_stochastic_modeling.pptx) |

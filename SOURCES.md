@@ -13,8 +13,8 @@
 | 3 | [03-functions.pptx](slides/03-functions.pptx) | 45 | [Конспект](python_basics/02-functions.md) |
 | 4 | [04-numpy_and_visualization.pptx](slides/04-numpy_and_visualization.pptx) | 38 | [Конспект](python_basics/04-numpy_and_visualization.md) |
 | 5 | [05-reproducibility.pptx](slides/05-reproducibility.pptx) | 44 | [Конспект](experimental_data/05-reproducibility.md) |
-| 6 | [06-design_and_optimization.pptx](slides/06-design_and_optimization.pptx) | 30 | [Конспект](experimental_design/06-design_and_optimization.md) |
-| 7 | [07-random_effects_and_blocks.pptx](slides/07-random_effects_and_blocks.pptx) | 43 | [Конспект](experimental_design/07-random_effects_and_blocks.md) |
+| 6 | [06-design_and_optimization.pptx](slides/06-design_and_optimization.pptx) · [PDF](slides/06-design_and_optimization.pdf) | 30 | [Конспект](experimental_design/06-design_and_optimization.md) |
+| 7 | [07-random_effects_and_blocks.pptx](slides/07-random_effects_and_blocks.pptx) · [PDF](slides/07-random_effects_and_blocks.pdf) | 43 | [Конспект](experimental_design/07-random_effects_and_blocks.md) |
 | 8 | [08-spectra_and_curves.pptx](slides/08-spectra_and_curves.pptx) | 28 | [Конспект](experimental_analysis/08-spectra_and_curves.md) |
 | 9 | [09-image_analysis.pptx](slides/09-image_analysis.pptx) | 28 | [Конспект](experimental_analysis/09-image_analysis.md) |
 | 10 | [10-scientific_and_stochastic_modeling.pptx](slides/10-scientific_and_stochastic_modeling.pptx) | 38 | [Конспект](modeling/10-scientific_and_stochastic_modeling.md) |
