@@ -2,7 +2,7 @@
 
 Модуль 5. Предыдущая тема: [количественный анализ изображений](../experimental_analysis/09-image_analysis.md). Далее по программе: [постановка задачи машинного обучения и проверка прогноза](../machine_learning/11-ml-problem_and_validation.md).
 
-[Презентация лекции](../slides/10-scientific_and_stochastic_modeling.pptx) · 38 слайдов · [Материалы и источники](../SOURCES.md).
+[Презентация (PPTX)](../slides/10-scientific_and_stochastic_modeling.pptx) · [Эталонный PDF](../slides/10-scientific_and_stochastic_modeling.pdf) · 38 слайдов · [Материалы и источники](../SOURCES.md).
 
 Цель: сформулировать модель, оценить параметры и неопределённость, проверить код и сопоставить прогноз с независимым экспериментом. Численные примеры искусственные и выполняются последовательно.
 

@@ -5,8 +5,8 @@
 
 | Порядок | Лекция | Слайды | Конспект |
 |---|---|---|---|
-| 13 | Масштабирование и данные партий | [40 слайдов](../slides/13-scaling_and_process_data.pptx) | [Масштабирование и данные](13-scaling_and_process_data.md) |
-| 14 | Мониторинг, цифровой двойник и следующий опыт | [40 слайдов](../slides/14-monitoring_and_digital_twin.pptx) | [Мониторинг и двойник](14-monitoring_and_digital_twin.md) |
+| 13 | Масштабирование и данные партий | [PPTX](../slides/13-scaling_and_process_data.pptx) · [Эталонный PDF](../slides/13-scaling_and_process_data.pdf) (40 слайдов) | [Масштабирование и данные](13-scaling_and_process_data.md) |
+| 14 | Мониторинг, цифровой двойник и следующий опыт | [PPTX](../slides/14-monitoring_and_digital_twin.pptx) · [Эталонный PDF](../slides/14-monitoring_and_digital_twin.pdf) (40 слайдов) | [Мониторинг и двойник](14-monitoring_and_digital_twin.md) |
 
 В практике создают таблицы партий, датчиков, проб и контроля качества,
 находят возможный сигнал изменения процесса, формулируют проверку причин и выбирают

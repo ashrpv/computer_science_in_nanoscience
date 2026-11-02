@@ -11,12 +11,12 @@
 | 5 | [05-reproducibility.pptx](05-reproducibility.pptx) (44 слайда) | [Конспект](../experimental_data/05-reproducibility.md) |
 | 6 | [06-design_and_optimization.pptx](06-design_and_optimization.pptx) · [Эталонный PDF](06-design_and_optimization.pdf) (30 слайдов) | [Конспект](../experimental_design/06-design_and_optimization.md) |
 | 7 | [07-random_effects_and_blocks.pptx](07-random_effects_and_blocks.pptx) · [Эталонный PDF](07-random_effects_and_blocks.pdf) (43 слайда) | [Конспект](../experimental_design/07-random_effects_and_blocks.md) |
-| 8 | [08-spectra_and_curves.pptx](08-spectra_and_curves.pptx) (28 слайдов) | [Конспект](../experimental_analysis/08-spectra_and_curves.md) |
-| 9 | [09-image_analysis.pptx](09-image_analysis.pptx) (28 слайдов) | [Конспект](../experimental_analysis/09-image_analysis.md) |
-| 10 | [10-scientific_and_stochastic_modeling.pptx](10-scientific_and_stochastic_modeling.pptx) (38 слайдов) | [Конспект](../modeling/10-scientific_and_stochastic_modeling.md) |
-| 11 | [11-ml_problem_and_validation.pptx](11-ml_problem_and_validation.pptx) (40 слайдов) | [Конспект](../machine_learning/11-ml-problem_and_validation.md) |
-| 12 | [12-ml_methods_and_experiment.pptx](12-ml_methods_and_experiment.pptx) (40 слайдов) | [Конспект](../machine_learning/12-ml-methods_and_experiment.md) |
-| 13 | [13-scaling_and_process_data.pptx](13-scaling_and_process_data.pptx) (40 слайдов) | [Конспект](../production/13-scaling_and_process_data.md) |
-| 14 | [14-monitoring_and_digital_twin.pptx](14-monitoring_and_digital_twin.pptx) (40 слайдов) | [Конспект](../production/14-monitoring_and_digital_twin.md) |
+| 8 | [08-spectra_and_curves.pptx](08-spectra_and_curves.pptx) · [Эталонный PDF](08-spectra_and_curves.pdf) (28 слайдов) | [Конспект](../experimental_analysis/08-spectra_and_curves.md) |
+| 9 | [09-image_analysis.pptx](09-image_analysis.pptx) · [Эталонный PDF](09-image_analysis.pdf) (28 слайдов) | [Конспект](../experimental_analysis/09-image_analysis.md) |
+| 10 | [10-scientific_and_stochastic_modeling.pptx](10-scientific_and_stochastic_modeling.pptx) · [Эталонный PDF](10-scientific_and_stochastic_modeling.pdf) (38 слайдов) | [Конспект](../modeling/10-scientific_and_stochastic_modeling.md) |
+| 11 | [11-ml_problem_and_validation.pptx](11-ml_problem_and_validation.pptx) · [Эталонный PDF](11-ml_problem_and_validation.pdf) (40 слайдов) | [Конспект](../machine_learning/11-ml-problem_and_validation.md) |
+| 12 | [12-ml_methods_and_experiment.pptx](12-ml_methods_and_experiment.pptx) · [Эталонный PDF](12-ml_methods_and_experiment.pdf) (40 слайдов) | [Конспект](../machine_learning/12-ml-methods_and_experiment.md) |
+| 13 | [13-scaling_and_process_data.pptx](13-scaling_and_process_data.pptx) · [Эталонный PDF](13-scaling_and_process_data.pdf) (40 слайдов) | [Конспект](../production/13-scaling_and_process_data.md) |
+| 14 | [14-monitoring_and_digital_twin.pptx](14-monitoring_and_digital_twin.pptx) · [Эталонный PDF](14-monitoring_and_digital_twin.pdf) (40 слайдов) | [Конспект](../production/14-monitoring_and_digital_twin.md) |
 
 [Обзор курса](../README.md) · [Материалы и источники](../SOURCES.md)
